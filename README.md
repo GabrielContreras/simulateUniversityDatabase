@@ -1,5 +1,5 @@
 # University Database
-Program that acts as a university database with use of object oriented design, function polymorphism, and .txt file input.
+Program that acts as a university database with use of object oriented design, function polymorphism, and .txt file input. Written during my Sophomore year of college.
 
 ## Included classes
 
